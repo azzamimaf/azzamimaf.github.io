@@ -2,7 +2,21 @@
 
 ## Unduh tema :
 ### Tema Windows
-- [Pink Nadeko Sengoku](https://azzamimaf.github.io/pink-nadekosengoku/) <img src="https://github.com/azzamimaf/pink-nadekosengoku/raw/main/ss1.png" style="width:50%">
-- [Conky Rainmeter](https://azzamimaf.github.io/conkyrainmeter/) <img src="https://github.com/azzamimaf/conkyrainmeter/raw/main/ss1.png" style="width:50%">
-
-Panduan memasang tema ada di masing-masing page nya
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://github.com/azzamimaf/conkyrainmeter/">
+      <img src="https://github.com/azzamimaf/conkyrainmeter/raw/main/ss1.png" alt="Conky Rainmeter">
+    </a>
+    <div class="desc">Conky Rainmeter</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="https://github.com/azzamimaf/pink-nadekosengoku/">
+      <img src="https://github.com/azzamimaf/pink-nadekosengoku/raw/main/ss1.png" alt="Pink Nadeko Sengoku">
+    </a>
+    <div class="desc">Pink Nadeko Sengoku</div>
+  </div>
+</div>
+<div class="clearfix"></div>
+Panduan memasang tema dapat di baca pada masing-masing tema
