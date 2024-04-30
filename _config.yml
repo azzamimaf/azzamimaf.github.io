@@ -1,0 +1,8 @@
+remote_theme: "jeffreytse/jekyll-theme-yat"
+title: Hoshuuzora
+author: Azzami Mutahhari
+description: >-
+  Tempat pelarian dikala tomi gabut gak ada kerjaan
+yat: 
+  date_format: "%b %d, %Y"
+ 
