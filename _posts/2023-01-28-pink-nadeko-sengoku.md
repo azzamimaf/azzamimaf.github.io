@@ -6,11 +6,7 @@ categories: windows theme
 tags: [windows theme]
 ---
 
-# Pink Nadeko Sengoku
-
->
-> ## Pink color theme configuration for windows 10/11
->
+## Pink color theme configuration for windows 10/11
 
 ## Screenshot Tema
 <!-- Slideshow container -->
