@@ -13,8 +13,8 @@ tags: [windows theme]
 [ss3]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss3.png "ss3"
 [ss4]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss4.png "ss4"
 
-|: Screenshot Tema :|
-|-|-|
+|:  Screenshot  Tema  :||
+|-----------|-----------|
 |![ss1][ss1]|![ss2][ss2]|
 |![ss3][ss3]|![ss4][ss4]|
 
