@@ -9,4 +9,5 @@ defaults:
   home:
       heading: "Hoshuuzora"
       subheading: "Tempat pelarian dikala tomi gabut gak ada kerjaan"
+      banner: "home.jpg"
 favicon: "myIcon.ico"
