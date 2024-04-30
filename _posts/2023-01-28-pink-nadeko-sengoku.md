@@ -2,6 +2,7 @@
 layout: post
 title: Pink Nadeko Sengoku
 subtitle: Windows 10/11 configuration theme with pink color scheme
+excerpt-image: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png
 categories: windows theme
 tags: [windows theme]
 ---
