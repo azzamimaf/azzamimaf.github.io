@@ -18,19 +18,19 @@ tags: [windows theme]
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="ss1.png" style="width:100%">
+    <img src="https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="ss2.png" style="width:100%">
+    <img src="https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss2.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="ss3.png" style="width:100%">
+    <img src="https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss3.png" style="width:100%">
   </div>
   
   <div class="mySlides fade">
-    <img src="ss4.png" style="width:100%">
+    <img src="https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss4.png" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
