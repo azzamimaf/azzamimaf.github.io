@@ -5,4 +5,7 @@ description: >-
   Tempat pelarian dikala tomi gabut gak ada kerjaan
 yat: 
   date_format: "%b %d, %Y"
- 
+defaults:
+  home:
+      heading: "Hoshuuzora"
+      subheading: "Tempat pelarian dikala tomi gabut gak ada kerjaan"
