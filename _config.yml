@@ -12,3 +12,4 @@ defaults:
       banner: "home.jpg"
 favicon: "myIcon.ico"
 night_mode: "on"
+brand_color: "#389092"
