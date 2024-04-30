@@ -12,7 +12,7 @@ tags: [windows theme]
 [ss2]: https://raw.githubusercontent.com/azzamimaf/conkyrainmeter/main/ss2.png "ss2"
 [ss3]: https://raw.githubusercontent.com/azzamimaf/conkyrainmeter/main/ss3.png "ss3"
 
-|:        Screenshot Tema        :|||
+| | | |
 |-----------|-----------|-----------|
 |![ss1][ss1]|![ss2][ss2]|![ss3][ss3]|
 
