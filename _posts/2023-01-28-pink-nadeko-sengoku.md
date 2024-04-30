@@ -15,6 +15,7 @@ tags: [windows theme]
 [ss4]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss4.png "ss4"
 
 |‎ |‎ |
+|-|-|
 |![ss1][ss1]|![ss2][ss2]|
 |![ss3][ss3]|![ss4][ss4]|
 
