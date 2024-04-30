@@ -8,13 +8,12 @@ tags: [windows theme]
 
 ## Pink color theme configuration for windows 10/11
 
-## Screenshot Tema
 [ss1]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss1.png "ss1"
 [ss2]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss2.png "ss2"
 [ss3]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss3.png "ss3"
 [ss4]: https://raw.githubusercontent.com/azzamimaf/pink-nadekosengoku/main/ss4.png "ss4"
 
-|‎ |‎ |
+|‎## Screenshot Tema|‎|
 |-|-|
 |![ss1][ss1]|![ss2][ss2]|
 |![ss3][ss3]|![ss4][ss4]|
