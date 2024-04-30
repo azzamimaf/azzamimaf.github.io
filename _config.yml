@@ -3,7 +3,6 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Hoshuuzora
 email: azzamimutahharialfarrah@gmail.com
 author: Azzami Mutahhari
-copyright: "Copyright (cleft) 2021-{currentYear} {author}"
 description: >-
   Tempat pelarian dikala tomi gabut gak ada kerjaan
 yat:
@@ -18,14 +17,3 @@ header_pages:
    home:
      heading: "Hoshuuzora"
      subheading: "Tempat pelarian dikala tomi gabut gak ada kerjaan"
- disqus:
-   shortname: "hoshuuzora"
-markdown: kramdown
-kramdown:
-  input: GFM
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
